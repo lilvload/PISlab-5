@@ -1,0 +1,67 @@
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\appsettings.json
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\api.exe
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\api.deps.json
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\api.runtimeconfig.json
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\api.dll
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\api.pdb
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.csproj.AssemblyReference.cache
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.AssemblyInfoInputs.cache
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.AssemblyInfo.cs
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.sourcelink.json
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\staticwebassets\msbuild.build.api.props
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api.props
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\scopedcss\bundle\api.styles.css
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.csproj.CopyComplete
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.dll
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\refint\api.dll
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.pdb
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\api.genruntimeconfig.cache
+C:\Users\Danylo\OneDrive - kpi.ua\Лаби\pislab5\api\obj\Debug\net8.0\ref\api.dll
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\appsettings.Development.json
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\appsettings.json
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\api.exe
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\api.deps.json
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\api.runtimeconfig.json
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\api.dll
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\api.pdb
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Work\programming\RiderProjects\pislab5\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.csproj.AssemblyReference.cache
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.AssemblyInfoInputs.cache
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.AssemblyInfo.cs
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.csproj.CoreCompileInputs.cache
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\staticwebassets\msbuild.build.api.props
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api.props
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\scopedcss\bundle\api.styles.css
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.csproj.CopyComplete
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.dll
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\refint\api.dll
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.pdb
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\api.genruntimeconfig.cache
+E:\Work\programming\RiderProjects\pislab5\api\obj\Debug\net8.0\ref\api.dll
